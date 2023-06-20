@@ -8,7 +8,6 @@ Para instalar las dependencias del proyecto, ejecuta el siguiente comando:
 
 ```bash
 pnpm install
-```bash
 
 ## Tecnologías utilizadas
 React - TypeScript - Material-UI - Zustand

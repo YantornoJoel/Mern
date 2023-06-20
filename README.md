@@ -7,7 +7,8 @@ Prueba técnica hecha con React, la cual consume la API de [Lorem Picsum](https:
 Para instalar las dependencias del proyecto, ejecuta el siguiente comando:
 
 ```bash
-pnpm install
+pnpm install | npm install | yarn
+```
 
 ## Tecnologías utilizadas
 React - TypeScript - Material-UI - Zustand
